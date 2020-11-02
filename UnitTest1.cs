@@ -8,7 +8,7 @@ namespace Taschenrechner_wi19b065
         [Fact]
         public void Test1()
         {
-
+            
         }
     }
 }
